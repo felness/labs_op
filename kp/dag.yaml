@@ -1,0 +1,29 @@
+jobs:
+  - id: "job1"
+    command: "asjdasjdssajdsa"
+    depends_on: []
+
+  - id: "job2"
+    command: "echo 'Executing job 2"
+    depends_on: []
+
+  - id: "job3"
+    command: "echo 'Executing job 3"
+    depends_on: []
+  
+  - id: "job4"
+    command: "echo 'Executing job 4"
+    depends_on: ["job1" , "job2" ]
+
+  - id: "job5"
+    command: "echo 'Executing job 5"
+    depends_on: ["job3"]
+
+  - id: "job6"
+    command: "echo 'Executing job 6"
+    depends_on: ["job5" ]
+    
+    
+    
+    
+
