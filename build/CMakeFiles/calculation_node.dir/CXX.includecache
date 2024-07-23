@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fltww/lab1_op/lab5-7/calculation_node.cpp
+my_zmq.h
+/home/fltww/lab1_op/lab5-7/my_zmq.h
+iostream
+-
+map
+-
+unistd.h
+-
+
+/home/fltww/lab1_op/lab5-7/my_zmq.h
+cassert
+-
+cerrno
+-
+cstring
+-
+string
+-
+zmq.hpp
+-
+random
+-
+

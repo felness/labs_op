@@ -1,0 +1,4 @@
+/home/fltww/lab1_op/lab5-7/build/CMakeFiles/edit_cache.dir
+/home/fltww/lab1_op/lab5-7/build/CMakeFiles/calculation_node.dir
+/home/fltww/lab1_op/lab5-7/build/CMakeFiles/rebuild_cache.dir
+/home/fltww/lab1_op/lab5-7/build/CMakeFiles/control_node.dir
